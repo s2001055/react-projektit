@@ -1,0 +1,30 @@
+body {
+    user-select: none;
+}
+
+.button-container {
+    max-width: 1000px;
+    margin: 100px auto;
+    display: flex;
+    justify-content: center;
+    padding: 20px 0px;
+}
+
+#startgame {
+    width: auto;
+    height: 50px;
+    border-radius: 5px;
+    background-color: #69013b;
+    margin: 100px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+#startgame:hover {
+    text-decoration: underline;
+}

@@ -1,0 +1,19 @@
+.Box {
+    background: rgb(237, 125, 49);
+    padding: 80px;
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.5) 0px 5px 15px;
+}
+
+.Box h1 {
+    color: white;
+    font-size: 28px;
+    font-weight: lighter;
+}
+
+.Box p {
+    color: lightgray;
+    font-size: 20px;
+    font-weight: lighter;
+}

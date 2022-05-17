@@ -1,0 +1,19 @@
+* {
+    font-family: Helvetica, sans-serif;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 80vh;
+}
+
+input {
+    width: 300px;
+}
+
+button {
+    margin-top: 10px;
+    display: block;
+}

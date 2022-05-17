@@ -1,0 +1,9 @@
+.View {
+    color: #35598C;
+    padding: 0 20px;
+}
+
+.view-label {
+    font-weight: bold;
+    overflow-wrap: break-word;
+}

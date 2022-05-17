@@ -1,0 +1,43 @@
+body {
+    background-color: #eee;
+}
+
+h1 {
+    font-size: 25px;
+}
+
+.App {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.Anecdote {
+    background-color: darkgreen;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    width: 600px;
+}
+
+.Anecdote p {
+    color: #ffedd3;
+    font-size: 18px;
+    text-align: left;
+}
+
+button {
+    margin-right: 5px;
+    background: darkred;
+    border: none;
+    cursor: pointer;
+    color: #ffedd3;
+    padding: 10px;
+    border-radius: 3px;
+    font-size: 16px;
+}
+
+button:hover {
+    text-decoration: underline;
+}
